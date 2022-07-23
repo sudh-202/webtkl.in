@@ -1,0 +1,15 @@
+.elementor-1461 .elementor-element.elementor-element-d64a65f > .elementor-container{min-height:90px;}.elementor-1461 .elementor-element.elementor-element-d64a65f{margin-top:0px;margin-bottom:-90px;padding:0px 70px 0px 70px;z-index:2;}.elementor-1461 .elementor-element.elementor-element-4646acb .elementor-menu-toggle{margin:0 auto;}.elementor-1461 .elementor-element.elementor-element-4646acb .elementor-nav-menu .elementor-item{font-family:"Inter", Sans-serif;font-size:16px;font-weight:500;text-transform:capitalize;line-height:24px;}.elementor-1461 .elementor-element.elementor-element-4646acb .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-4ba4a7f );}.elementor-1461 .elementor-element.elementor-element-5932ab8 .elementor-button{font-family:"Inter", Sans-serif;font-size:18px;font-weight:600;line-height:20px;background-color:var( --e-global-color-accent );border-style:solid;border-width:3px 3px 3px 3px;border-color:var( --e-global-color-accent );border-radius:25px 25px 25px 25px;}.elementor-1461 .elementor-element.elementor-element-5932ab8 .elementor-button:hover, .elementor-1461 .elementor-element.elementor-element-5932ab8 .elementor-button:focus{color:var( --e-global-color-accent );background-color:var( --e-global-color-4ba4a7f );}.elementor-1461 .elementor-element.elementor-element-5932ab8 .elementor-button:hover svg, .elementor-1461 .elementor-element.elementor-element-5932ab8 .elementor-button:focus svg{fill:var( --e-global-color-accent );}/* Start custom CSS for section, class: .elementor-element-d64a65f */.elementor-1461 .elementor-element.elementor-element-d64a65f.elementor-sticky--effects{
+background-color: rgba(16,18,24)!important
+}
+
+.elementor-1461 .elementor-element.elementor-element-d64a65f{
+transition: background-color 1s ease !important;
+}
+
+.elementor-1461 .elementor-element.elementor-element-d64a65f.elementor-sticky--effects >.elementor-container{
+min-height: 70px;
+}
+
+.elementor-1461 .elementor-element.elementor-element-d64a65f > .elementor-container{
+transition: min-height 1s ease !important;
+}/* End custom CSS */
